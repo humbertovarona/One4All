@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Varona"
+  given-names: "Humberto L."
+  orcid: "https://orcid.org/0000-0001-7405-4827"
+title: "One4All: RS232 Physical Port Extender for Virtual Ports"
+version: 1.01c
+doi: 10.5281/zenodo.5634284
+date-released: 2021-10-15
+url: "https://zenodo.org/record/5634284"
